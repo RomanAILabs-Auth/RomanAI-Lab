@@ -44,7 +44,7 @@ RomanAI Lab Master is a neon-styled, quantum-inspired AI development environment
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/USERNAME/RomanAI-Lab-Master
+git clone https://github.com/RomanAILab_Auth/RomanAI-Lab-Master
 cd RomanAI-Lab-Master
 python3 RomanAI_Lab_Master.py
 
